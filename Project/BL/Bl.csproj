@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Blservices\" />
-    <Folder Include="BlModels\" />
   </ItemGroup>
 
   <ItemGroup>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wkapq4fT8kyG84cwVc0Z0lVRlRu93dpjCAGJBWsc5Z5Sfnj1GLE68EQ2/lDhjnPgzo2ESX5jNe4PVBCj19QgNw==",
+  "dgSpecHash": "IPm0j9swFyYLm/2sbRCFtUpl846wdViYSgQra0x0EVWNrQULf3WOf/qv3S0CNnBt8j1uCbAfezsb1FzLjNs24g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\מישקובסקי שושנה\\Desktop\\Project\\Dal\\Dal.csproj",
+  "projectFilePath": "C:\\Users\\מישקובסקי שושנה\\Desktop\\פרויקט גיט\\Project\\Project\\Dal\\Dal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\מישקובסקי שושנה\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\מישקובסקי שושנה\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

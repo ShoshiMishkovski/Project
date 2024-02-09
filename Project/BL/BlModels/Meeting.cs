@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bl.BlApi
+namespace Bl.BlModels
 {
-    public interface IDietitianService
+    public class Meeting
     {
-
     }
 }

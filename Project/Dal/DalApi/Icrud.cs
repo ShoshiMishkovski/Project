@@ -9,9 +9,9 @@ namespace Dal.DalApi
     public interface Icrud<T>
     {
 
-        List<T> GetAll();
-        T Add(T obg);
-        T Update(T obg, int id);
-        int Delete(T obg);
+        //List<T> GetAll();
+        //T Add(T obg);
+        //T Update(T obg, int id);
+        //int Delete(T obg);
     }
 }

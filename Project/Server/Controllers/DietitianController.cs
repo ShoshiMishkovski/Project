@@ -2,6 +2,8 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Bl.BlApi;
+using Dal.Models;
+
 namespace Server.Controllers
 {
     [Route("api/[controller]")]
@@ -10,30 +12,15 @@ namespace Server.Controllers
     {
         IDietitianService dietitianSevice;
 
-        public DietitianController()
+        public DietitianController(IDietitianService dietitianSevice)
         {
-            
+            this.dietitianSevice = dietitianSevice;
         }
-        //[HttpGet]
-        //public ActionResult<List<Dietitian>> Get() { 
-        //return dietitianService.GetAll();
-        //}
-        //[HttpDelete]
-        //public ActionResult<Dietitian> Delete(Dietitian dietitian) {
-        //    dietitianService.Delete(dietitian);
-        //    return dietitian;
-        //}
-        //[HttpPost]
-        //public ActionResult<Dietitian> Add(Dietitian dietitian)
-        //{
-        //    dietitianService.Add(dietitian);
-        //    return dietitian;
-        //}
-        //[HttpPut]
-        //public ActionResult<Dietitian> Update(Dietitian dietitian,int id)
-        //{
-        //    dietitianService.Update(dietitian,id);
-        //    return dietitian;   
-        //}
+        [HttpGet]
+
+public ActionResult<List<Meeting>> GetTodayMeetingsById(int Id) {
+       return    dietitianSevice.GetTodayMeetingdById(id);
+
+        }
     }
 }

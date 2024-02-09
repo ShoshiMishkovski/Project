@@ -1,4 +1,6 @@
 ﻿using Dal.DalApi;
+using Dal.Models;
+
 namespace Bl.Blservices
 {
 
@@ -11,7 +13,9 @@ namespace Bl.Blservices
 
     }
 
-
+        public List<Meeting> GetTodatMeetingsById(int Id) {
+            _dietitianService.
+        }
         //public Dietitian Add(Dietitian dietitian)
         //{
         //    nutritionContext.Dietitians.Add(dietitian);
