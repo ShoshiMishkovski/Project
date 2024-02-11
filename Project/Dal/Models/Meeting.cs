@@ -11,7 +11,11 @@ public partial class Meeting
 
     public int ClientsId { get; set; }
 
-    public DateTime? Datetime { get; set; }
+    public string? Status { get; set; }
+
+    public DateTime? Date { get; set; }= DateTime.Now;
+
+    public DateTime? Hour { get; set; }=DateTime.Now;
 
     public virtual Client Clients { get; set; } = null!;
 

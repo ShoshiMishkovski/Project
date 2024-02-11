@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 
 namespace Dal.DalApi
 {
-    public interface IDietitianService:Icrud<Dietitian>
+    public interface IDietitianService : Icrud<Dietitian>
     {
+        public List<Meeting> GetMeetingsById(int id);
     }
 }

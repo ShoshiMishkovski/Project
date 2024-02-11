@@ -1,3 +1,5 @@
+using Bl.BlApi;
+using Bl.Blservices;
 using Dal.DalApi;
 using Dal.Models;
 using Dal.Services;
@@ -12,7 +14,9 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
 builder.Services.AddScoped<IDietitianService, DietitianService>();
+builder.Services.AddScoped<IBlDietitianService, BlDietitianService>();
 DBActions db = new DBActions(builder.Configuration);
 string connStr = db.GetConnectionString("NutritionContext");
 builder.Services.AddDbContext<NutritionContext>(opt => opt.UseSqlServer(connStr));

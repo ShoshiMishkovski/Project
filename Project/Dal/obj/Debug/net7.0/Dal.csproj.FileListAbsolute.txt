@@ -40,3 +40,45 @@ C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Dal
 C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.pdb
 C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
 C:\Users\מישקובסקי שושנה\Desktop\project C# amd server\Project\Dal\obj\Debug\net7.0\ref\Dal.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\obj\Debug\net7.0\Dal.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\obj\Debug\net7.0\refint\Dal.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\obj\Debug\net7.0\Dal.pdb
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\bin\Debug\net7.0\Dal.deps.json
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\bin\Debug\net7.0\Dal.dll
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\bin\Debug\net7.0\Dal.pdb
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+C:\Users\user1\Desktop\הנדסאים\גיט\גיט\Project\Project\Dal\obj\Debug\net7.0\ref\Dal.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\obj\Debug\net7.0\Dal.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\obj\Debug\net7.0\refint\Dal.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\obj\Debug\net7.0\Dal.pdb
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\bin\Debug\net7.0\Dal.deps.json
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\bin\Debug\net7.0\Dal.dll
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\bin\Debug\net7.0\Dal.pdb
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+C:\Users\מישקובסקי שושנה\Desktop\Project\Project\Dal\obj\Debug\net7.0\ref\Dal.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\bin\Debug\net7.0\Dal.deps.json
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\bin\Debug\net7.0\Dal.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\bin\Debug\net7.0\Dal.pdb
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\obj\Debug\net7.0\Dal.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\obj\Debug\net7.0\refint\Dal.dll
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\obj\Debug\net7.0\Dal.pdb
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+C:\Users\מישקובסקי שושנה\Desktop\BHProject\Project\Dal\obj\Debug\net7.0\ref\Dal.dll

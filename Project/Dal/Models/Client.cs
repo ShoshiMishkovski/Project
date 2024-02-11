@@ -13,5 +13,9 @@ public partial class Client
 
     public string Phone { get; set; } = null!;
 
+    public string? Kind { get; set; }
+
+    public DateTime? BirthDate { get; set; }
+
     public virtual ICollection<Meeting> Meetings { get; set; } = new List<Meeting>();
 }

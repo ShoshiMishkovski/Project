@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Bl.BlApi;
 using Dal.Models;
+using Bl.BlModels;
 
 namespace Server.Controllers
 {
@@ -10,17 +11,25 @@ namespace Server.Controllers
     [ApiController]
     public class DietitianController : ControllerBase
     {
-        IDietitianService dietitianSevice;
+        IBlDietitianService dietitianSevice;
 
-        public DietitianController(IDietitianService dietitianSevice)
+        public DietitianController(IBlDietitianService dietitianSevice)
         {
             this.dietitianSevice = dietitianSevice;
         }
         [HttpGet]
+        public ActionResult<List<BlDietitian>> GetAll()
+        {
+            return dietitianSevice.GetAll();
+        }
+        [HttpGet("{DietitianId}")]
 
-public ActionResult<List<Meeting>> GetTodayMeetingsById(int Id) {
-       return    dietitianSevice.GetTodayMeetingdById(id);
+        public ActionResult<List<Bl.BlModels.Meeting>> GetTodayMeetingsById(int DietitianId)
+        {
+            return dietitianSevice.GetTodatMeetingsById(DietitianId);
 
         }
+
+
     }
 }

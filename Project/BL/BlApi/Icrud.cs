@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Bl.BlApi
 {
-    internal interface Icrud<T>
+    public interface Icrud<T>
     {
 
-        //List<T> GetAll();
+        List<T> GetAll();
         //T Add(T obg);
         //T Update(T obg, int id);
         //int Delete(T obg);

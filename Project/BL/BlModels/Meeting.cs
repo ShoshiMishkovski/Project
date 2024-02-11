@@ -8,5 +8,10 @@ namespace Bl.BlModels
 {
     public class Meeting
     {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public DateTime? Hour { get; set; }
+        public string Phone { get; set; }
+        public float Age { get; set; }
     }
 }

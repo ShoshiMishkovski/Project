@@ -26,11 +26,18 @@ public partial class NutritionContext : DbContext
             entity.Property(e => e.Id)
                 .ValueGeneratedNever()
                 .HasColumnName("id");
+            entity.Property(e => e.BirthDate).HasColumnType("datetime");
             entity.Property(e => e.FirstName)
                 .HasMaxLength(50)
                 .IsUnicode(false)
                 .UseCollation("SQL_Latin1_General_CP1_CI_AS")
                 .HasColumnName("firstName");
+            entity.Property(e => e.Kind)
+                .HasMaxLength(1)
+                .IsUnicode(false)
+                .IsFixedLength()
+                .UseCollation("SQL_Latin1_General_CP1_CI_AS")
+                .HasColumnName("kind");
             entity.Property(e => e.LastName)
                 .HasMaxLength(50)
                 .IsUnicode(false)
@@ -59,6 +66,11 @@ public partial class NutritionContext : DbContext
                 .IsUnicode(false)
                 .UseCollation("SQL_Latin1_General_CP1_CI_AS")
                 .HasColumnName("firstName");
+            entity.Property(e => e.Kind)
+                .HasMaxLength(255)
+                .IsUnicode(false)
+                .UseCollation("SQL_Latin1_General_CP1_CI_AS")
+                .HasColumnName("kind");
             entity.Property(e => e.LastName)
                 .HasMaxLength(50)
                 .IsUnicode(false)
@@ -76,8 +88,17 @@ public partial class NutritionContext : DbContext
 
             entity.Property(e => e.Code).HasColumnName("code");
             entity.Property(e => e.ClientsId).HasColumnName("clientsId");
-            entity.Property(e => e.Datetime).HasColumnType("date");
+            entity.Property(e => e.Date)
+                .HasColumnType("datetime")
+                .HasColumnName("date");
             entity.Property(e => e.DieticanId).HasColumnName("dieticanId");
+            entity.Property(e => e.Hour)
+                .HasColumnType("datetime")
+                .HasColumnName("hour");
+            entity.Property(e => e.Status)
+                .HasMaxLength(255)
+                .UseCollation("SQL_Latin1_General_CP1_CI_AS")
+                .HasColumnName("status");
 
             entity.HasOne(d => d.Clients).WithMany(p => p.Meetings)
                 .HasForeignKey(d => d.ClientsId)

@@ -15,5 +15,7 @@ public partial class Dietitian
 
     public string Phone { get; set; } = null!;
 
+    public string? Kind { get; set; }
+
     public virtual ICollection<Meeting> Meetings { get; set; } = new List<Meeting>();
 }
