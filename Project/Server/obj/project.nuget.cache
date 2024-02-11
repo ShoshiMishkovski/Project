@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "neFSR+tUH+dGNnWFYlpNz3CjlsXoXrpHj0TeBv8rLmOuKpoiSmb8ta0kCpNIX1iIu4wr2Le6Q8zYLD1QWh2ZiA==",
+  "dgSpecHash": "y84mGYydsH/BvhsorpseTtg4E3hEUzl6jJI+FLzbftVWFKNkjjuAcKhw9DdyE1kURRhgFEC4gEYeigudla1KeQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\מישקובסקי שושנה\\Desktop\\BHProject\\Project\\Server\\Server.csproj",
+  "projectFilePath": "H:\\פרויקט סטאז\\Project\\Project\\Server\\Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\מישקובסקי שושנה\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\מישקובסקי שושנה\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

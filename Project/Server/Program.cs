@@ -15,7 +15,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddScoped<IDietitianService, DietitianService>();
+builder.Services.AddScoped<Dal.DalApi.IDietitianService, Dal.Services.DietitianService>();
 builder.Services.AddScoped<IBlDietitianService, BlDietitianService>();
 DBActions db = new DBActions(builder.Configuration);
 string connStr = db.GetConnectionString("NutritionContext");

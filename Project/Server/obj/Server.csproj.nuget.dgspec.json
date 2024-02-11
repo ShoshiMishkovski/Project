@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\מישקובסקי שושנה\\Desktop\\BHProject\\Project\\Server\\Server.csproj": {}
+    "H:\\פרויקט סטאז\\Project\\Project\\Server\\Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\מישקובסקי שושנה\\Desktop\\BHProject\\Project\\BL\\Bl.csproj": {
+    "H:\\פרויקט סטאז\\Project\\Project\\BL\\Bl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\מישקובסקי שושנה\\Desktop\\BHProject\\Project\\BL\\Bl.csproj",
+        "projectUniqueName": "H:\\פרויקט סטאז\\Project\\Project\\BL\\Bl.csproj",
         "projectName": "Bl",
-        "projectPath": "C:\\Users\\מישקובסקי שושנה\\Desktop\\BHProject\\Project\\BL\\Bl.csproj",
+        "projectPath": "H:\\פרויקט סטאז\\Project\\Project\\BL\\Bl.csproj",
         "packagesPath": "C:\\Users\\מישקובסקי שושנה\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\מישקובסקי שושנה\\Desktop\\BHProject\\Project\\BL\\obj\\",
+        "outputPath": "H:\\פרויקט סטאז\\Project\\Project\\BL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\מישקובסקי שושנה\\Desktop\\BHProject\\Project\\Dal\\Dal.csproj": {
-                "projectPath": "C:\\Users\\מישקובסקי שושנה\\Desktop\\BHProject\\Project\\Dal\\Dal.csproj"
+              "H:\\פרויקט סטאז\\Project\\Project\\Dal\\Dal.csproj": {
+                "projectPath": "H:\\פרויקט סטאז\\Project\\Project\\Dal\\Dal.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\מישקובסקי שושנה\\Desktop\\BHProject\\Project\\Dal\\Dal.csproj": {
+    "H:\\פרויקט סטאז\\Project\\Project\\Dal\\Dal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\מישקובסקי שושנה\\Desktop\\BHProject\\Project\\Dal\\Dal.csproj",
+        "projectUniqueName": "H:\\פרויקט סטאז\\Project\\Project\\Dal\\Dal.csproj",
         "projectName": "Dal",
-        "projectPath": "C:\\Users\\מישקובסקי שושנה\\Desktop\\BHProject\\Project\\Dal\\Dal.csproj",
+        "projectPath": "H:\\פרויקט סטאז\\Project\\Project\\Dal\\Dal.csproj",
         "packagesPath": "C:\\Users\\מישקובסקי שושנה\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\מישקובסקי שושנה\\Desktop\\BHProject\\Project\\Dal\\obj\\",
+        "outputPath": "H:\\פרויקט סטאז\\Project\\Project\\Dal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\מישקובסקי שושנה\\Desktop\\BHProject\\Project\\Server\\Server.csproj": {
+    "H:\\פרויקט סטאז\\Project\\Project\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\מישקובסקי שושנה\\Desktop\\BHProject\\Project\\Server\\Server.csproj",
+        "projectUniqueName": "H:\\פרויקט סטאז\\Project\\Project\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "C:\\Users\\מישקובסקי שושנה\\Desktop\\BHProject\\Project\\Server\\Server.csproj",
+        "projectPath": "H:\\פרויקט סטאז\\Project\\Project\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\מישקובסקי שושנה\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\מישקובסקי שושנה\\Desktop\\BHProject\\Project\\Server\\obj\\",
+        "outputPath": "H:\\פרויקט סטאז\\Project\\Project\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -173,8 +173,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\מישקובסקי שושנה\\Desktop\\BHProject\\Project\\BL\\Bl.csproj": {
-                "projectPath": "C:\\Users\\מישקובסקי שושנה\\Desktop\\BHProject\\Project\\BL\\Bl.csproj"
+              "H:\\פרויקט סטאז\\Project\\Project\\BL\\Bl.csproj": {
+                "projectPath": "H:\\פרויקט סטאז\\Project\\Project\\BL\\Bl.csproj"
               }
             }
           }
